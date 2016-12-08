@@ -1,0 +1,24 @@
+[
+  {
+    "logo": "bluepoint",
+    "description": "description1",
+    "latitude": 43.630311,
+    "longitude": 3.847856,
+    "title": "Point 1"
+  },
+  {
+    "logo": "redpoint",
+    "description": "description2",
+    "latitude": 43.695735,
+    "longitude": 3.860811,
+    "title": "Point 2"
+  },
+  {
+    "logo": "greenpoint",
+    "description": "description3",
+    "latitude": 43.608933,
+    "longitude": 3.776023,
+    "title": "Point 3"
+  }
+  ]
+	
