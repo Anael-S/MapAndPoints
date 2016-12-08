@@ -20,7 +20,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 /**
- * Our main activity used to display the map with our markers
+ * Our main activity used to display the map with our markers.
  */
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
 
