@@ -19,6 +19,9 @@ import com.orace.mapandpoint.model.CustomMarkerViewAdapter;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+/**
+ * Our main activity used to display the map with our markers
+ */
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
 
     //Our google map
